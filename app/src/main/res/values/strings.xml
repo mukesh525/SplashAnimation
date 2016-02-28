@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidAnimationActivity!</string>
+    <string name="app_name">AndroidAnimation</string>
+
+</resources>
